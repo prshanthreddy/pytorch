@@ -1,4 +1,4 @@
-What is [PyTorch](pytorch.io)?
+What is PyTorch?
 A deep learning platform that provides maximum flexibility and speed for building deep neural network models which puts Python first.
 
 Pytorch Leverages the power of GPUs(CUDA) to perform computations efficiently. It is a Python-first framework that allows you to build deep learning models with flexibility and speed.
