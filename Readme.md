@@ -22,22 +22,22 @@ PyTorch Tensor:
 
 PyTorch Installation:
 - You can install PyTorch using pip.
-'''
+```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-'''
+```
 - You can install PyTorch using conda.
-'''
+```
 conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
-'''
+```
 - You can install PyTorch using Docker.
-'''
+```
 docker pull pytorch/pytorch
-''' 
+``` 
 - You can install PyTorch using source code.
-'''
+```
 git clone
 cd pytorch
 python setup.py install
-'''
+```
 PyTorch:
 [The Incredible PyTorch](https://github.com/NurmaU/incredible_pytorch)
